@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LibsDemo/1.0.0": {
+        "dependencies": {
+          "ArrayHelper": "1.0.0",
+          "RectangleHelper": "1.0.0"
+        },
+        "runtime": {
+          "LibsDemo.dll": {}
+        }
+      },
+      "ArrayHelper/1.0.0": {
+        "runtime": {
+          "ArrayHelper.dll": {}
+        }
+      },
+      "RectangleHelper/1.0.0": {
+        "runtime": {
+          "RectangleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibsDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RectangleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

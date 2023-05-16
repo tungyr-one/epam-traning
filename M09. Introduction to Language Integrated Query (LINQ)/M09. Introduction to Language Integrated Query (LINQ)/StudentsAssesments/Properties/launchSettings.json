@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StudentsAssesments": {
+      "commandName": "Project",
+      "commandLineArgs": "-name"
+    }
+  }
+}

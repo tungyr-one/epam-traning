@@ -1,0 +1,20 @@
+[
+   {
+      "Student":"Ivan Petrov",
+      "Test":"Maths",
+      "Date":"25/11/2012",
+      "Mark":4
+   },
+   {
+      "Student":"Ivan Ivanov",
+      "Test":"Physics",
+      "Date":"30/11/2012",
+      "Mark":3
+   },
+   {
+      "Student":"Vasya Pupkin",
+      "Test":"History",
+      "Date":"19/12/2012",
+      "Mark":5
+   }
+]
